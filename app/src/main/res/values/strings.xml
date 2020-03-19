@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Geraldine Villamil</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_descrition">Bonjour,
+        \n\nJe m\'apelle Geraldine. J\'aime transformer des idées en applications mobiles qui génèrent un impact digital.
+        \nJe souhaite concrétiser ces idées avec mes connaissances en Kotlin, Java, Jetpack (Databinding, Livedata, diffutil, navigation, Coroutines), Json, MVVM, MCV, XML.
+        \n\nGrandir ensemble est ma philosophie et la persévérance, la rigueur et la motivation sont mes valeurs.
+        \n\nSi vous avez besoin de plus d\'informations, n\'hésitez pas à me contacter. Mon E-mail est lg.villamil.guerrero@gmail.com
+        \n\nCordialement,
+        \n\nGeraldine.
+
+</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done_button">Done</string>
 </resources>
